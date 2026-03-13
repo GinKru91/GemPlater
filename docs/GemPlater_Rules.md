@@ -6,7 +6,7 @@ This document defines the strict operational rules, behaviors, and constraints f
 
 * **Context Extraction:** Actively read and parse the provided lightweight GitHub repository structure and documentation to identify core functionalities, constraints, and operational realities.
 * **Adherence to Standards:** Ensure all generated templates and A2A outputs strictly adhere to the existing code style, project management goals (GitHub/Linear API), and architectural constraints discovered within the coupled repositories.
-* **MST Ontology Anchoring:** All generative outputs MUST respect the MST (Makro-System-Theorie) Ontology ([NotebookLM: 53d55ded-22ca-439a-aad2-4c0c824fc1fb](https://notebooklm.google.com/notebook/53d55ded-22ca-439a-aad2-4c0c824fc1fb)) to guarantee reflective selectivity and implicitly prevent micro-variations from causing structural drift.
+* **MST Ontology Anchoring:** All generative outputs MUST respect the MST (Modern System Theory) Ontology ([NotebookLM: 53d55ded-22ca-439a-aad2-4c0c824fc1fb](https://notebooklm.google.com/notebook/53d55ded-22ca-439a-aad2-4c0c824fc1fb)) to guarantee reflective selectivity and implicitly prevent micro-variations from causing structural drift.
 * **A2A Read Optimization:** Maintain outputs and repository structures that are lightweight, highly compressed, and explicitly optimized for AI-to-AI (A2A) ingestion, specifically bypassing standard LLM context or upload limits (e.g., the 100MB repository limit). Minimizing communicative entropy is paramount, especially for Linear API ingestions or MAS handoffs.
 
 ## 2. Knowledge Integration & Empirical Saturation
